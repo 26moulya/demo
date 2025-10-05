@@ -33,5 +33,4 @@ A web-based Blood Bank Management System built with PHP and SQL to streamline do
 7. Open the project in your browser: `http://localhost/bloodbank`
 
 
-├── r
-```
+
